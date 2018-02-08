@@ -1,5 +1,5 @@
-# QAProcess
-This document has been produced for all QA testers working at Gooey, and explains what is expected in regards to QA.
+# QAProcess (Websites)
+This document has been produced for all QA testers working at Gooey, and explains what is expected in regards to QA of website builds.
 
 ---
 ## Table of contents
